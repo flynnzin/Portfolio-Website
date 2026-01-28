@@ -2,6 +2,8 @@
 
 This repository contains all the projects I completed during the HTML and CSS course.  
 Each project was created to practice and reinforce fundamental front-end development skills.
+https://flynnzin.github.io/Portfolio-Website/
+
 
 ## Projects
 
